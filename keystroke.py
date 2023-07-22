@@ -113,3 +113,8 @@ game_controller_listener()
 
 # Run the window's event loop
 window.mainloop()
+
+'''
+The script stops listening to 'a', 's', 'd', 'w', 'f', and 'y' when a game controller is connected.
+
+'''
